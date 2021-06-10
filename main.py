@@ -4,5 +4,5 @@ def hello():
 def bye():
     print("Bye GH actions, see ya !")
 
-print(hello)
+print(hello())
 bye()
